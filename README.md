@@ -33,12 +33,10 @@
 </div>
 
 <br/>
-
 <h3 align="left" style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h3>
 <div align="center">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ghksqkdwod" width="300px" />
   <br/><br/>
-  
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
       <td width="65%" align="center">
@@ -54,6 +52,7 @@
   
   <br/>
   
+  <img src="https://render.gitanimals.org/lines/YeeDochi?pet-id=2" width="1000" height="200"/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=YeeDochi&theme=github-dark&hide_border=true&locale=ko&background=0d1117" alt="GitHub Streak" width="100%" />
     <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YeeDochi&theme=github-dark&hide_border=true&locale=ko&mode=weekly" alt="GitHub Streak" /></a>-->
@@ -64,9 +63,9 @@
 
 <h3 align="left" style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐾 My GitAnimals </h3>
 <div align="center">
-  <a href="https://github.com/git-goods/gitanimals">
+  <!-- <a href="https://github.com/git-goods/gitanimals"> -->
     <img src="https://render.gitanimals.org/farms/YeeDochi" width="100%" alt="Gitanimals Farm" />
-  </a>
+  <!-- </a> -->
 </div>
 
 <br/>
