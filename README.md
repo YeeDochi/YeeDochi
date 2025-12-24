@@ -82,6 +82,14 @@
 
 <br/>
 
+<h3 align="left" style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐾 My GitAnimals </h3>
+<div align="center">
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/farms/YeeDochi" width="100%" alt="Gitanimals Farm" />
+  </a>
+</div>
+
+<br/>
 <div align="center">
   <details>
     <summary> 귀여운거 보려면 클릭 </summary>
