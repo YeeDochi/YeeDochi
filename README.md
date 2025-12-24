@@ -63,9 +63,9 @@
 
 <h3 align="left" style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐾 My GitAnimals </h3>
 <div align="center">
-  <!-- <a href="https://github.com/git-goods/gitanimals"> -->
-    <img src="https://render.gitanimals.org/farms/YeeDochi" width="100%" alt="Gitanimals Farm" />
-  <!-- </a> -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/YeeDochi"/>
+</a>
 </div>
 
 <br/>
