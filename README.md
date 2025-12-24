@@ -64,7 +64,7 @@
 
 <br/>
 
-<h3 align="left" style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎨 Gallery </h3>
+<h3 align="left" style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 귀여운거 🦔🦔 </h3>
 <div align="center">
   <img src="https://media.giphy.com/media/6WCTG9Qt1CL28/giphy-downsized.gif" width="45%" alt="image1" />
   &nbsp;&nbsp;
