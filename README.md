@@ -85,8 +85,8 @@
       </td>
       <td width="2%"></td>
       <td width="49%" align="center">
-        <a href="https://github.com/tiredfool/Claudlet">
-          <img src="https://opengraph.githubassets.com/1/tiredfool/Claudlet" width="100%" alt="GIGAChad" />
+        <a href="https://github.com/YeeDochi/Claudlet">
+          <img src="https://opengraph.githubassets.com/1/YeeDochi/Claudlet" width="100%" alt="GIGAChad" />
         </a>
       </td>
     </tr>
