@@ -80,13 +80,13 @@
     <tr>
       <td width="49%" align="center">
         <a href="https://github.com/YeeDochi/OpenStack-MCP">
-          <img src="https://opengraph.githubassets.com/1/YeeDochi/minigames" width="100%" alt="minigames" />
+          <img src="https://opengraph.githubassets.com/1/YeeDochi/OpenStack-MCP" width="100%" alt="minigames" />
         </a>
       </td>
       <td width="2%"></td>
       <td width="49%" align="center">
         <a href="https://github.com/tiredfool/Claudlet">
-          <img src="https://opengraph.githubassets.com/1/tiredfool/GIGAChad" width="100%" alt="GIGAChad" />
+          <img src="https://opengraph.githubassets.com/1/tiredfool/Claudlet" width="100%" alt="GIGAChad" />
         </a>
       </td>
     </tr>
